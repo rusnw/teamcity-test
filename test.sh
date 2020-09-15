@@ -1,3 +1,2 @@
-rwar
-s
+rwa
 sada
